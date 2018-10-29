@@ -1,5 +1,5 @@
 # Yash
-Yash  combines the Xiaomi Yeelight and Amazon Dash and uses it as a visual bell.
+Yash  combines the Xiaomi Yeelight and Amazon Dash and uses it as a visual bell. That's very cool.
 
 ![Lighting](https://media.giphy.com/media/26Fffm2wiNiqUP756/giphy.gif)
 
@@ -19,6 +19,8 @@ Yash  combines the Xiaomi Yeelight and Amazon Dash and uses it as a visual bell.
 - Press the Dash button
 
 - Ring ring !!!
+
+
 
 
 
